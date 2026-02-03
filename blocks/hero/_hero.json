@@ -42,11 +42,11 @@
           "valueType": "string"
         },
         {
-          "component": "reference",
-          "valueType": "string",
-          "name": "secondimage",
-          "label": "Second Image",
-          "multi": false
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Testing Branch",
+          "valueType": "string"
         }
       ]
     }
