@@ -40,13 +40,6 @@
           "value": "",
           "label": "Text",
           "valueType": "string"
-        },
-        {
-          "component": "richtext",
-          "name": "text",
-          "value": "",
-          "label": "Testing Branch",
-          "valueType": "string"
         }
       ]
     }
